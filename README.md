@@ -7,11 +7,6 @@
 
 ### 🙋‍♂️ About Me
 
-<p align="center">
-  Saya adalah programmer mobile Android & iOS yang bersemangat membuat aplikasi keren dan bermanfaat.<br/>
-  🚀 Passionate Developer | 📱 Mobile & Web Enthusiast | 🎨 UI/UX Thinker
-</p>
-
 - 🔭 I’m currently working on a **Web & Mobile Asset Management System**
 - 🌱 I’m currently diving deeper into **Spring Boot**, **Laravel**, and **Flutter**
 - 🤝 I’m open to collaboration in impactful open-source projects
