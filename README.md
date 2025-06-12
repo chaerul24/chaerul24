@@ -52,7 +52,8 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaerul-id&theme=radical)](https://git.io/streak-stats)
+![Chaerul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chaerul24&show_icons=true&theme=radical)
+
 
 ### 🔗 Let's Connect
 
