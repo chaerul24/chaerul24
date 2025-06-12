@@ -52,6 +52,7 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaerul-id&theme=radical)](https://git.io/streak-stats)
 
 ### 🔗 Let's Connect
 
