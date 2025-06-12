@@ -60,6 +60,7 @@
   <a href="https://www.linkedin.com/in/chaerul-wahyu-iman-syah-25ba28283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/6282328270147"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
    <a href="https://chaerul.biz.id"><img src="https://img.shields.io/badge/Web-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@chaerulhome21"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 </p>
 
 ---
