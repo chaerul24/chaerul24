@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaerul24&show_icons=true&theme=radical" alt="Chaerul's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerul24&layout=compact&theme=radical" alt="Top Languages" />
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api?username=chaerul24&show_icons=true&theme=radical" alt="Chaerul's GitHub stats" />
+  <img style="height:200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerul24&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
