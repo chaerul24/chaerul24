@@ -5,16 +5,8 @@
 
 ---
 
-### Tentang Saya
-
-- 🔭 Saat ini sedang mengembangkan **Sistem Manajemen Aset Web & Mobile**
-- 🌱 Sedang mendalami lebih dalam tentang **Spring Boot**, **Laravel**, dan **Flutter**
-- 🤝 Terbuka untuk kolaborasi dalam proyek open-source yang berdampak
-- 💬 Tanya saya seputar **Android Studio**, **Flutter**, **Spring Boot**, atau **Laravel**
 - 🌐 Website pribadi: [www.chaerul.biz.id](https://www.chaerul.biz.id)
 - 🖥️ Server publik: [http://bit.ly/3FYONOe](http://bit.ly/3FYONOe)
-- 📫 Kontak email: `qenboxofficial@gmail.com`
-- ⚡ Fakta menarik: Saya suka membangun UI yang clean dan backend yang scalable
 
 
 ---
