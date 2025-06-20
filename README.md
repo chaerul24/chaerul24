@@ -6,7 +6,7 @@
 ---
 
 - 🌐 Website pribadi: [www.chaerul.biz.id](https://www.chaerul.biz.id)
-- 🖥️ Server publik: [http://bit.ly/3FYONOe](http://bit.ly/3FYONOe)
+
 
 
 ---
