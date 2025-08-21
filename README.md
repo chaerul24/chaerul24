@@ -5,7 +5,7 @@
 
 ---
 
-- 🌐 Website pribadi: [www.chaerul.biz.id](https://www.chaerul.biz.id)
+- 🌐 Portfolio: [web.chaerul.biz.id](https://web.chaerul.biz.id)
 
 
 
