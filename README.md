@@ -25,14 +25,7 @@
   <img src="https://img.shields.io/badge/CorelDRAW-009639?style=for-the-badge&logo=coreldraw&logoColor=white"/>
 </p>
 
----
-
-
-### 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=chaerul24&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
+--
 
 ### 📊 GitHub Stats
 
