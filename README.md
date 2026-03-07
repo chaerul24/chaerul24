@@ -6,7 +6,7 @@
 ---
 
 - 🌐 project: [simosa.chaerul.biz.id](https://simosa.chaerul.biz.id)
-- 🌐 absensi: [simosa.chaerul.biz.id](https://ypwpmedan.my.id/)
+- 🌐 absensi: [ypwpmedan.my.id](https://ypwpmedan.my.id/)
 
 
 
