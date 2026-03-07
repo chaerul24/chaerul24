@@ -5,7 +5,7 @@
 
 ---
 
-- 🌐 Portfolio: [web.chaerul.biz.id](https://simosa.chaerul.biz.id)
+- 🌐 Portfolio: [simosa.chaerul.biz.id](https://simosa.chaerul.biz.id)
 
 
 
