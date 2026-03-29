@@ -4,11 +4,11 @@
 </p>
 
 ---
-
-- 🌐 project: [simosa.chaerul.xyz](https://simosa.chaerul.xyz)
-- 🌐 absensi: [ypwpmedan.my.id](https://ypwpmedan.my.id/)
-- 🌐 phone find: [find.chaerul.xyz](https://find.chaerul.xyz/)
-
+### Project 
+- 🌐 [SIMOSA](https://simosa.chaerul.xyz)
+- 🌐 [Absensi YPWP](https://ypwpmedan.my.id/)
+- 🌐 [Phone Find](https://find.chaerul.xyz/)
+- 🌐 [SmartHome](https://find.chaerul.xyz/smarthome)
 
 ---
 
