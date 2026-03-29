@@ -10,8 +10,6 @@
 - 🌐 [Phone Find](https://find.chaerul.xyz/)
 - 🌐 [SmartHome](https://find.chaerul.xyz/smarthome)
 
-### CV
-- [CV Download](https://drive.google.com/file/d/1i9clKRyQMWg2tTRe20INTQErr5t24wAx/view?usp=sharing)
 ---
 
 ### SKILL
