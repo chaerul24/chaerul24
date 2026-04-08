@@ -11,6 +11,7 @@
 - 🌐 [SmartHome](https://find.chaerul.xyz/smarthome)
 - 🌐 [Compress 100mb to 10mb](https://compress.chaerul.xyz)
 - 🌐 [YTB Downloader](https://ytbdownloader.chaerul.xyz)
+- 🌐 [Jualin.site](https://jualin.site)
 
 ---
 
