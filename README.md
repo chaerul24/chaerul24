@@ -3,17 +3,6 @@
   🚀 Passionate Developer | 📱 Mobile & Web Enthusiast | 🎨 UI/UX Thinker
 </p>
 
----
-### Project 
-- 🌐 [SIMOSA](https://simosa.chaerul.xyz)
-- 🌐 [Absensi YPWP](https://ypwpmedan.my.id/)
-- 🌐 [Phone Find](https://find.chaerul.xyz/)
-- 🌐 [SmartHome](https://find.chaerul.xyz/smarthome)
-- 🌐 [Compress 100mb to 10mb](https://compress.chaerul.xyz)
-- 🌐 [YTB Downloader](https://ytbdownloader.chaerul.xyz)
-- 🌐 [Jualin.site](https://jualin.site)
-
----
 
 ### SKILL
 
